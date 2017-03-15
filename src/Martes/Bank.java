@@ -5,7 +5,7 @@ package Martes;
  *
  * @author HP
  */
-public class Bank {
+class Bank {
     float getRateOfInterest(){
         return 0;
     }

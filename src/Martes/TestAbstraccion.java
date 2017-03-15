@@ -32,6 +32,8 @@ abstract void printStatus();
 
 abstract class Bicycle{
     abstract void run();
+    /* Se agrego comentario*/
+    
 }
 
 abstract class ShapeX{
